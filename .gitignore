@@ -1,0 +1,17 @@
+# Claude Code local settings
+.claude/settings.local.json
+
+# Test results and temporary files  
+test_results/
+*.log
+*.tmp
+*.bak
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# SQL Server temporary files
+*.mdf
+*.ldf
+*.ndf
